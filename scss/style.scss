@@ -1,17 +1,18 @@
 @import 'base/variables';
-@import'condicional';
 @import 'maps';
 @import 'mixin';
 @import 'extend';
+@import'condicional';
+@import 'for'; 
 @import 'base/generales';
 @import 'layout/header';
 @import 'layout/main';
 @import 'views/index';
 @import 'views/proximos-viajes';
+@import 'views/proximos-viajes2';
 @import 'views/galeria';
 @import 'views/sobre-mi';
 @import 'views/contacto';
-
 @import 'layout/footer';
 @import 'quaries'; /* crearlas y revisar si van al principio o final*/ 
 
